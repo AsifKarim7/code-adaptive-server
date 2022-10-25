@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Python"
+    },
+    {
+        "id": "02",
+        "name": "C Programming"
+    },
+    {
+        "id": "03",
+        "name": "Object Oriented Programming"
+    },
+    {
+        "id": "04",
+        "name": "Rust"
+    },
+    {
+        "id": "05",
+        "name": "Typescript"
+    },
+    {
+        "id": "06",
+        "name": "Java"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "name": "Python",
+        "title": "Learn Python: The Complete Python Programming Course",
+        "img": "https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c65fbda1ea05.jpg",
+        "price": "$13.99",
+        "details": "If you are looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years."
+    },
+    {
+        "id": "02",
+        "name": "C Programming",
+        "title": "C Programming For Beginners",
+        "img": "https://contentstatic.techgig.com/photo/90325682.cms",
+        "price": "$12.99",
+        "details": "The fastest, easiest way to learn to program C on a Mac or Windows. This course will teach you to program the C language from the ground up. You will learn everything from the very fundamentals of programming right through to the complexities of pointers, addresses and File IO. Maybe you've tried to master C before but failed. Or maybe you are new to C or new to programming. If so, this is the course for you!"
+    },
+    {
+        "id": "03",
+        "name": "Object Oriented Programming",
+        "title": "Object Oriented Programming for Beginners",
+        "img": "https://i.ytimg.com/vi/HUlHun5a430/hqdefault.jpg",
+        "price": "$16.99",
+        "details": "Object oriented programming (or OOP) is a collection of objects (data) and patterns of their interactions around data, or objects, rather than functions and logic. Ultimately, object oriented programming is about organization and saving time. With object oriented programming, you are able to break down monster programs into much smaller pieces of code, and you are able to reuse sections of code to save time in the long run."
+    },
+    {
+        "id": "04",
+        "name": "Rust",
+        "title": "Rust: The Complete Beginners Guide",
+        "img": "https://c4.wallpaperflare.com/wallpaper/500/828/20/rust-code-logo-programming-language-wallpaper-preview.jpg",
+        "price": "$7.99",
+        "details": "Rust is a blazingly fast, but at the same time easy to pick up language, designed for reliability and memory management. Hundreds of companies around the world are using Rust in production today for fast, low-resource, cross-platform solutions. Software you know and love, like Firefox, Dropbox, and Cloudflare, uses Rust."
+    },
+    {
+        "id": "05",
+        "name": "Typescript",
+        "title": "Introduction to TypeScript Development",
+        "img": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2021/09/TypeScriptImage-scaled.jpg",
+        "price": "$14.99",
+        "details": "Do you want to build Angular, React JS, or Vue JS web and mobile applications? If that's your goal it's vital that you learn the TypeScript programming language, and that's exactly what we're going to walk through in this course. My name is Jordan Hudgens, and I'll be your instructor for the course. In addition to being the lead instructor for devCamp I've also been building web applications for over a decade for organizations such as Eventbrite and Quip."
+    },
+    {
+        "id": "06",
+        "name": "Java",
+        "title": "Java from Beginner to Expert",
+        "img": "https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2020/07/Learn-Java-programming-language-image-for-article-498498b9484.jpg?fit=675%2C428&ssl=1",
+        "price": "$18.99",
+        "details": "This Java course is designed for people who don't have any knowledge about programming. It doesn't matter if you have never written any programs or you have no idea about programming... After my course, all this will change. You will bust the myth that programming is a difficult thing only for the few! Java is one of the most in-demand & highest paying programming language."
+    }
+]
