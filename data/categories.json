@@ -1,26 +1,38 @@
 [
     {
         "id": "01",
-        "name": "Python"
+        "name": "Python",
+        "img": "https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c65fbda1ea05.jpg",
+        "price": "$13.99"
     },
     {
         "id": "02",
-        "name": "C Programming"
+        "name": "C Programming",
+        "img": "https://contentstatic.techgig.com/photo/90325682.cms",
+        "price": "$12.99"
     },
     {
         "id": "03",
-        "name": "Object Oriented Programming"
+        "name": "Object Oriented Programming",
+        "img": "https://i.ytimg.com/vi/HUlHun5a430/hqdefault.jpg",
+        "price": "$16.99"
     },
     {
         "id": "04",
-        "name": "Rust"
+        "name": "Rust",
+        "img": "https://c4.wallpaperflare.com/wallpaper/500/828/20/rust-code-logo-programming-language-wallpaper-preview.jpg",
+        "price": "$7.99"
     },
     {
         "id": "05",
-        "name": "Typescript"
+        "name": "Typescript",
+        "img": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2021/09/TypeScriptImage-scaled.jpg",
+        "price": "$14.99"
     },
     {
         "id": "06",
-        "name": "Java"
+        "name": "Java",
+        "img": "https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2020/07/Learn-Java-programming-language-image-for-article-498498b9484.jpg?fit=675%2C428&ssl=1",
+        "price": "$18.99"
     }
 ]
