@@ -2,37 +2,31 @@
     {
         "id": "01",
         "name": "Python",
-        "img": "https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c65fbda1ea05.jpg",
-        "price": "$13.99"
+        "img": "https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c65fbda1ea05.jpg"
     },
     {
         "id": "02",
         "name": "C Programming",
-        "img": "https://contentstatic.techgig.com/photo/90325682.cms",
-        "price": "$12.99"
+        "img": "https://contentstatic.techgig.com/photo/90325682.cms"
     },
     {
         "id": "03",
-        "name": "Object Oriented Programming",
-        "img": "https://i.ytimg.com/vi/HUlHun5a430/hqdefault.jpg",
-        "price": "$16.99"
+        "name": "React JS",
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y6YIEgoh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/n7ccgsmop6f4l4ycu4uv.png"
     },
     {
         "id": "04",
         "name": "Rust",
-        "img": "https://c4.wallpaperflare.com/wallpaper/500/828/20/rust-code-logo-programming-language-wallpaper-preview.jpg",
-        "price": "$7.99"
+        "img": "https://c4.wallpaperflare.com/wallpaper/500/828/20/rust-code-logo-programming-language-wallpaper-preview.jpg"
     },
     {
         "id": "05",
         "name": "Typescript",
-        "img": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2021/09/TypeScriptImage-scaled.jpg",
-        "price": "$14.99"
+        "img": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2021/09/TypeScriptImage-scaled.jpg"
     },
     {
         "id": "06",
         "name": "Java",
-        "img": "https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2020/07/Learn-Java-programming-language-image-for-article-498498b9484.jpg?fit=675%2C428&ssl=1",
-        "price": "$18.99"
+        "img": "https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2020/07/Learn-Java-programming-language-image-for-article-498498b9484.jpg?fit=675%2C428&ssl=1"
     }
 ]
